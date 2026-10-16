@@ -1,4 +1,6 @@
-# Tasks API
+# Tasks API (practice copy)
+
+> **Practice copy for the DevOps track, Course 3, Lesson 3 (The pull request flow).** Its main branch is protected: changes need a pull request with one approval, for everyone, admins included. The lesson shows a direct push being refused. The real project is https://github.com/agl-learn-examples/devops-tasks-api
 
 A tiny to-do list REST API in Python and Flask. It is the running example for the **DevOps track on [agentlabs learn](https://learning.myagentlabs.ai)**: every course adds one layer to this same project, from running it on your laptop to Git, Docker, Compose, CI, nginx, the cloud and Kubernetes.
 
